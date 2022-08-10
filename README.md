@@ -3,7 +3,7 @@ it was my final project and thesis for university
 
 # WHAT IS THE GOAL FOR THIS PROJECT
 
-I created this system was 1 year ago. It was my final profect for my university. So basicly the system scan the photos and learn. After then when you do roll-call system know who is him. In my opinion face recognation is so important for future. I just crated this system for saving on time and human power. Students before join to the class they should scan from the camera source ourself. So they can join to roll-call.
+I created this system was 1 year ago. It was my final profect for my university. So basicly the system scan the photos and learn. After then when you do roll-call, system know who is him. In my opinion face recognation is so important for future. I just created this system for saving on time and human power. Students before join to the class they should scan from the camera source ourself. So they can join to roll-call.
 
 # HOW IS WORKING?
 
@@ -19,7 +19,7 @@ You should create your account and scan to students and let to program learn.
 
 
 
-After then you can use Yoklama Al button and press Q when button know you.
+After then you can use Yoklama Al button and press Q when camera know you.
 
 ![Screenshot_2](https://user-images.githubusercontent.com/44511583/182005469-b58701ca-19ba-401e-9707-bd4794e78c51.png)
 
